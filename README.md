@@ -1,2 +1,2 @@
-# full
+# logica de programacion
 Feliz
